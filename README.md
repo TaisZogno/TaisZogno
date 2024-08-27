@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+Meu nome é Tais Zogno
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
